@@ -7,3 +7,4 @@ puts "Travail : #{number_of_hours_worked_per_day * number_of_days_worked_per_wee
 puts "Et en minutes ça fait : #{number_of_minutes_in_an_hour * number_of_hours_worked_per_day * number_of_days_worked_per_week * number_of_weeks_in_THP}"
 # ça ne faisait rien car je n'avais pas défini la variable number of minutes in an hour 
 
+
